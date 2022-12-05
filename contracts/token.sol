@@ -1,17 +1,4 @@
 // SPDX-License-Identifier: MIT
-// pragma solidity >= 0.8.17;
-
-// contract App {
-//     uint256 number;
-//     function store(uint256 num) public {
-//         number = num;
-//     }
-//     function get() public view returns (uint256) {
-//         return number;
-//     }
-// }
-
-// SPDX-License-Identifier: MIT
 pragma solidity >=0.8.17;
 
 interface Token {
